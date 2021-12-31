@@ -65,6 +65,6 @@ audio/
 gui/
 cache/
 saves/
-image/
+images/
 !gui.rpy
 !images.rpy
