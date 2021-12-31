@@ -66,3 +66,5 @@ gui/
 cache/
 saves/
 image/
+!gui.rpy
+!images.rpy
